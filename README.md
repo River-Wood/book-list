@@ -1,7 +1,7 @@
 # ReduxSimpleStarter
 hotfix
 Interested in learning [Redux](https://www.udemy.com/react-redux/)?
-
+HF$
 ### Getting Started
 
 There are two methods for getting started with this repo.
